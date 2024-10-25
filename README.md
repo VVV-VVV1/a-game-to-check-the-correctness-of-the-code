@@ -7,4 +7,4 @@ file **"test_steps.py"** is file automation for feature tests by BDD
 
 file **"main.py"** is main project file. It says work of project.
 
-<ins>To launch feature tests - command: **behave**</ins>
+<ins>To launch feature tests command: **behave**</ins>
